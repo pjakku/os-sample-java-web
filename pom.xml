@@ -4,7 +4,7 @@
   <groupId>openshift</groupId>
   <artifactId>getting-started-tomcat</artifactId>
   <packaging>war</packaging>
-  <version>3.9.15-SNAPSHOT</version>
+  <version>3.9.16-SNAPSHOT</version>
   <name>getting-started-tomcat Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
